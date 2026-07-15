@@ -1,101 +1,202 @@
 <div align="center">
 
-# Hi there, I'm Rhishav 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e3a8a,60:2563eb,100:60a5fa&text=Rhishav%20Lamichhane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20High%20School%20Student&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=High+School+Developer;Full-Stack+Developer;TypeScript+%7C+Python;Building+AI-powered+Applications;Always+Learning+Something+New" />
-
-<p>
-High school student from <b>Kathmandu, Nepal 🇳🇵</b> passionate about building full-stack applications and exploring artificial intelligence. I enjoy transforming ideas into practical software that solves real-world problems while continuously learning new technologies.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=👋+Hello%2C+I'm+Rhishav!;Full-Stack+Developer;Building+with+TypeScript+%26+Python;Exploring+Artificial+Intelligence;Interested+in+Cybersecurity;Always+Learning+🚀)](https://git.io/typing-svg)
 
 <p>
 <a href="https://www.linkedin.com/in/rhishavlamichhane">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/SelAshyn">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=SelAshyn&style=for-the-badge&color=blue"/>
+
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 High school student from Nepal
-- 💻 Started programming at **14**
-- ⚡ Building modern web applications with **Next.js**, **TypeScript**, and **Python**
-- 🤖 Experimenting with AI using the **Gemini API**
-- 🌱 Currently learning **FastAPI**, backend architecture, and cybersecurity
-- 🚀 Always building projects that solve real-world problems
+```ts
+const rhishav = {
+    location: "Kathmandu, Nepal 🇳🇵",
 
----
+    education: "High School Student",
 
-## 🛠 Tech Stack
+    startedCodingAt: 14,
 
-### Languages
+    languages: [
+        "TypeScript",
+        "Python"
+    ],
 
-<p>
-<img src="https://skillicons.dev/icons?i=ts,python,js,html,css"/>
-</p>
+    frontend: [
+        "Next.js",
+        "React",
+        "Tailwind CSS"
+    ],
 
-### Frameworks & Technologies
+    backend: [
+        "Node.js",
+        "FastAPI",
+        "Flask"
+    ],
 
-<p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,fastapi,flask,supabase,firebase,git,vercel,linux,vscode"/>
-</p>
+    cloud: [
+        "Supabase",
+        "Firebase",
+        "Vercel"
+    ],
 
----
+    interests: [
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Cybersecurity"
+    ],
 
-## 🚀 Featured Projects
-
-🌙 **The Nights**  
-A career guidance platform helping students explore career paths, connect with mentors, and build personalized roadmaps.
-
-🌱 **EcoSpark**  
-A sustainability platform promoting agriculture, land restoration, and community-driven environmental initiatives.
-
-🩺 **Health Insights Agent**  
-An AI-powered assistant that analyzes health reports using the Gemini API and explains medical information in simple language.
-
-💰 **Personal Expense Tracker**  
-A full-stack expense management application for tracking, categorizing, and visualizing personal finances.
-
-📚 **Novella**  
-A modern reading companion designed to help users organize and enjoy their personal library.
-
----
-
-## 🌍 Interests
-
-- 💻 Full-Stack Development
-- 🤖 Artificial Intelligence
-- 🔐 Cybersecurity
-- 🌍 Open Source
+    currentlyLearning: [
+        "Backend Architecture",
+        "AI Applications",
+        "Cybersecurity"
+    ]
+}
+```
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,tailwind,fastapi,flask,supabase,firebase,git,linux,vercel,vscode&perline=7"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌙 **The Nights** | Career guidance platform helping students explore future opportunities. |
+| 🌱 **EcoSpark** | Sustainability platform focused on environmental awareness and agriculture. |
+| 🩺 **Health Insights Agent** | AI-powered application using Gemini API to simplify health report analysis. |
+| 💰 **Expense Tracker** | Full-stack finance management application with analytics. |
+| 📚 **Novella** | Modern reading companion for organizing books and reading progress. |
+
+---
+
+# 🌍 Interests
+
+```text
+💻 Full Stack Development
+
+🤖 Artificial Intelligence
+
+🔐 Cybersecurity
+
+🌱 Open Source
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SelAshyn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAshyn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SelAshyn&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SelAshyn&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SelAshyn&theme=tokyonight&margin-w=12&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions to make this animate automatically.
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SelAshyn&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAshyn&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=SelAshyn&theme=github-dark-blue&hide_border=true"/>
-</p>
+<img src="https://raw.githubusercontent.com/SelAshyn/SelAshyn/output/github-contribution-grid-snake-dark.svg"/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SelAshyn&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Learning
 
-<p align="left">
+```text
+██████████████░░░░  TypeScript
+
+████████████░░░░░░  AI Development
+
+███████████░░░░░░░  Backend Systems
+
+██████████░░░░░░░░  Cybersecurity
+```
+
+---
+
+# 💬 Random Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎵 Spotify (Optional)
+
+Replace **YOUR_SPOTIFY_USERNAME** if you want this.
+
+```md
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default)](...)
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/rhishavlamichhane">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -105,12 +206,14 @@ A modern reading companion designed to help users organize and enjoy their perso
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-*"Building practical software, learning continuously, and enjoying the process along the way."*
+### 💡 *"Building practical software, one project at a time."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:60a5fa,30:2563eb,70:1e3a8a,100:0f172a"/>
 
 </div>
