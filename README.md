@@ -1,219 +1,129 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,30:1e3a8a,60:2563eb,100:60a5fa&text=Rhishav%20Lamichhane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20High%20School%20Student&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:2563eb&text=Rhishav%20Lamichhane&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20·%20AI%20Explorer%20·%20High%20School%20Student&descAlignY=62&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=👋+Hello%2C+I'm+Rhishav!;Full-Stack+Developer;Building+with+TypeScript+%26+Python;Exploring+Artificial+Intelligence;Interested+in+Cybersecurity;Always+Learning+🚀)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Rhishav+%F0%9F%91%8B;Building+with+TypeScript+%26+Python;Exploring+Artificial+Intelligence;Learning+Cybersecurity)](https://git.io/typing-svg)
 
 <p>
-<a href="https://www.linkedin.com/in/rhishavlamichhane">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SelAshyn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=SelAshyn&style=for-the-badge&color=blue"/>
-
+<a href="https://www.linkedin.com/in/rhishavlamichhane"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=60A5FA"/></a>
+<a href="https://github.com/SelAshyn"><img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=60A5FA"/></a>
+<img src="https://komarev.com/ghpvc/?username=SelAshyn&style=flat-square&color=0f172a&label=profile+views"/>
 </p>
 
 </div>
 
----
+&nbsp;
 
-# 👨‍💻 About Me
+## About
 
 ```ts
 const rhishav = {
-    location: "Kathmandu, Nepal 🇳🇵",
+  location: "Kathmandu, Nepal 🇳🇵",
+  education: "High School Student",
+  codingSince: 2020,
 
-    education: "High School Student",
+  languages: ["TypeScript", "Python"],
+  frontend:   ["Next.js", "React", "Tailwind CSS"],
+  backend:    ["Node.js", "FastAPI", "Flask"],
+  cloud:      ["Supabase", "Firebase", "Vercel"],
 
-    startedCodingAt: 14,
-
-    languages: [
-        "TypeScript",
-        "Python"
-    ],
-
-    frontend: [
-        "Next.js",
-        "React",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "FastAPI",
-        "Flask"
-    ],
-
-    cloud: [
-        "Supabase",
-        "Firebase",
-        "Vercel"
-    ],
-
-    interests: [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Cybersecurity"
-    ],
-
-    currentlyLearning: [
-        "Backend Architecture",
-        "AI Applications",
-        "Cybersecurity"
-    ]
+  currentlyLearning: ["Backend Architecture", "AI Applications", "Cybersecurity"],
 }
 ```
 
----
+&nbsp;
 
-# ⚡ Tech Stack
+## Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,tailwind,fastapi,flask,supabase,firebase,git,linux,vercel,vscode&theme=dark&perline=7"/>
+</div>
+
+&nbsp;
+
+## Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🌙 The Nights**
+Career guidance platform helping students explore future opportunities.
+
+</td>
+<td width="50%">
+
+**🌱 EcoSpark**
+Sustainability platform for environmental awareness and agriculture.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🩺 Health Insights Agent**
+AI-powered app using the Gemini API to simplify health report analysis.
+
+</td>
+<td width="50%">
+
+**💰 Expense Tracker**
+Full-stack finance management app with analytics.
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**📚 Novella**
+Modern reading companion for organizing books and tracking reading progress.
+
+</td>
+</tr>
+</table>
+
+&nbsp;
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,nodejs,tailwind,fastapi,flask,supabase,firebase,git,linux,vercel,vscode&perline=7"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SelAshyn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA&icon_color=60A5FA&rank_icon=github"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAshyn&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=60A5FA"/>
+
+<img src="https://streak-stats.demolab.com?user=SelAshyn&theme=tokyonight&hide_border=true&background=00000000&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA"/>
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌙 **The Nights** | Career guidance platform helping students explore future opportunities. |
-| 🌱 **EcoSpark** | Sustainability platform focused on environmental awareness and agriculture. |
-| 🩺 **Health Insights Agent** | AI-powered application using Gemini API to simplify health report analysis. |
-| 💰 **Expense Tracker** | Full-stack finance management application with analytics. |
-| 📚 **Novella** | Modern reading companion for organizing books and reading progress. |
-
----
-
-# 🌍 Interests
-
-```text
-💻 Full Stack Development
-
-🤖 Artificial Intelligence
-
-🔐 Cybersecurity
-
-🌱 Open Source
-```
-
----
-
-# 📊 GitHub Analytics
+<details>
+<summary>Contribution activity</summary>
+<br/>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SelAshyn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAshyn&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SelAshyn&theme=tokyo-night&hide_border=true&bg_color=00000000&color=60A5FA&line=60A5FA&point=ffffff"/>
 </div>
 
----
+</details>
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SelAshyn&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SelAshyn&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SelAshyn&theme=tokyonight&margin-w=12&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to make this animate automatically.
+&nbsp;
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/SelAshyn/SelAshyn/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
----
-
-# 📚 Currently Learning
-
-```text
-██████████████░░░░  TypeScript
-
-████████████░░░░░░  AI Development
-
-███████████░░░░░░░  Backend Systems
-
-██████████░░░░░░░░  Cybersecurity
-```
-
----
-
-# 💬 Random Developer Quote
+&nbsp;
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<i>"Building practical software, one project at a time."</i>
 
-</div>
+<br/><br/>
 
----
+<a href="https://www.linkedin.com/in/rhishavlamichhane"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/SelAshyn"><img src="https://skillicons.dev/icons?i=github"/></a>
 
-# 🎵 Spotify (Optional)
-
-Replace **YOUR_SPOTIFY_USERNAME** if you want this.
-
-```md
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default)](...)
-```
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rhishavlamichhane">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/SelAshyn">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 *"Building practical software, one project at a time."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:60a5fa,30:2563eb,70:1e3a8a,100:0f172a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563eb,50:1e3a8a,100:0f172a"/>
 
 </div>
