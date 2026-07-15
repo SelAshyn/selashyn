@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&duration=1&pause=999999&color=1F2937&center=true&vCenter=true&repeat=false&width=560&lines=Rhishav+Lamichhane"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=560&lines=Rhishav+Lamichhane"/>
 
 <sub>Full Stack Developer · AI Explorer · High School Student</sub>
 
@@ -131,7 +131,7 @@ System Design             ██████░░░░░░░░░░
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=1&pause=999999&color=7C3AED&center=false&vCenter=true&repeat=false&width=200&lines=Activity"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=1&pause=999999&color=FFFFFF&center=false&vCenter=true&repeat=false&width=200&lines=Activity"/>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SelAshyn&theme=minimal&hide_border=true&bg_color=ffffff&color=7C3AED&line=7C3AED&point=1F2937"/>
