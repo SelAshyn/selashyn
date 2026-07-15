@@ -1,124 +1,116 @@
-<h1 align="center">Hi 👋, I'm Rhishav Lamichhane</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Python+%7C+TypeScript+Developer;AI+%26+Automation+Enthusiast;Building+Projects+That+Matter;Always+Learning+Something+New" />
+# Hi there, I'm Rhishav 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=High+School+Developer;Full-Stack+Developer;TypeScript+%7C+Python;Building+AI-powered+Applications;Always+Learning+Something+New" />
+
+<p>
+High school student from <b>Kathmandu, Nepal 🇳🇵</b> passionate about building full-stack applications and exploring artificial intelligence. I enjoy transforming ideas into practical software that solves real-world problems while continuously learning new technologies.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SelAshyn&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<p>
+<a href="https://www.linkedin.com/in/rhishavlamichhane">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/SelAshyn">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
----
-
-## 🚀 About Me
-
-```javascript
-const rhishav = {
-    location: "Kathmandu, Nepal 🇳🇵",
-    startedCodingAt: 14,
-    role: "Full Stack Developer",
-    languages: ["Python", "TypeScript", "JavaScript"],
-    frontend: ["Next.js", "React", "HTML5", "CSS3", "TailwindCSS"],
-    backend: ["Flask", "Node.js", "REST APIs"],
-    database: ["PostgreSQL", "SQLite", "Supabase"],
-    interests: [
-        "Artificial Intelligence",
-        "Open Source",
-        "Automation",
-        "Full Stack Development"
-    ],
-    currentlyLearning: [
-        "Machine Learning",
-        "Cloud",
-        "System Design"
-    ]
-}
-```
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-<p align="center">
+- 🎓 High school student from Nepal
+- 💻 Started programming at **14**
+- ⚡ Building modern web applications with **Next.js**, **TypeScript**, and **Python**
+- 🤖 Experimenting with AI using the **Gemini API**
+- 🌱 Currently learning **FastAPI**, backend architecture, and cybersecurity
+- 🚀 Always building projects that solve real-world problems
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,nodejs,flask,html,css,tailwind,git,github,vscode,postgres,supabase,linux&perline=8"/>
+---
 
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,python,js,html,css"/>
 </p>
 
----
+### Frameworks & Technologies
 
-## 🌟 Featured Projects
-
-🚀 **The Nights** — Career guidance platform connecting students with mentors.
-
-🌱 **EcoSpark** — Sustainability platform for agriculture and land restoration.
-
-💰 **Personal Expense Tracker** — Full-stack finance management application.
-
-🩺 **Health Insights Agent** — AI-powered health report analysis assistant.
-
-📚 **Novella** — Beautiful personal reading companion.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SelAshyn&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAshyn&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind,fastapi,flask,supabase,firebase,git,vercel,linux,vscode"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Featured Projects
+
+🌙 **The Nights**  
+A career guidance platform helping students explore career paths, connect with mentors, and build personalized roadmaps.
+
+🌱 **EcoSpark**  
+A sustainability platform promoting agriculture, land restoration, and community-driven environmental initiatives.
+
+🩺 **Health Insights Agent**  
+An AI-powered assistant that analyzes health reports using the Gemini API and explains medical information in simple language.
+
+💰 **Personal Expense Tracker**  
+A full-stack expense management application for tracking, categorizing, and visualizing personal finances.
+
+📚 **Novella**  
+A modern reading companion designed to help users organize and enjoy their personal library.
+
+---
+
+## 🌍 Interests
+
+- 💻 Full-Stack Development
+- 🤖 Artificial Intelligence
+- 🔐 Cybersecurity
+- 🌍 Open Source
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SelAshyn&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAshyn&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=SelAshyn&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SelAshyn&theme=github-dark-blue&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SelAshyn&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SelAshyn&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<a href="https://www.linkedin.com/in/rhishavlamichhane">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 <a href="https://github.com/SelAshyn">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
 
 ---
 
-## 💡 Quote
+<div align="center">
 
-> *"Code is not just about solving problems—it's about creating possibilities."*
+*"Building practical software, learning continuously, and enjoying the process along the way."*
 
----
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</div>
