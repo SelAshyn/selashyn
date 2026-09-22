@@ -1,57 +1,80 @@
-<div align="center">
+# 🌟 Rhishav Lamichhane 🌟
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:1F2430,100:0A0E14&height=230&section=header&text=Rhishav%20Lamichhane&fontSize=38&fontColor=5CCFE6&fontAlignY=42&desc=full-stack%20developer%20%C2%B7%20Kathmandu%2C%20Nepal&descAlignY=60&descSize=15&descColor=F28779&animation=fadeIn"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1500&pause=200&color=60A5FA&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Full+Stack+Developer+%7C+AI+Explorer" alt="Typing SVG"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=FFCC66&center=true&vCenter=true&width=560&lines=building+things+that+solve+real+problems;currently+breaking+things+to+fix+them+better)](https://git.io/typing-svg)
+---
 
-</div>
+## 👨‍💻 About Me
 
-<br/>
+📍 **Based in:** Kathmandu, Nepal
+💡 **Tech Journey:** Programming since 2020, building full-stack apps and exploring AI along the way
 
-```bash
-$ whoami
-Rhishav Lamichhane — programming since 2020, still building.
+---
 
-$ cat focus.txt
-Shipping with Next.js · Exploring the Gemini API
-Learning FastAPI & backend architecture · Digging into security
+## 💻 Tech Stack
 
-$ ls ./stack
-TypeScript  Python   React    Next.js   FastAPI  Flask
-Tailwind    Supabase Firebase Vercel    Git      Linux
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,python,fastapi,flask,supabase,firebase,mysql,git,github,vercel,vscode,linux" alt="Tech Stack">
+</p>
 
-<div align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,fastapi,flask,tailwind,supabase,firebase,vercel,git,linux&theme=dark&perline=12"/>
+## 🌟 Featured Projects
 
-</div>
+### 🌙 The Nights *(Next.js, TypeScript)*
+👉 [View on GitHub](https://github.com/SelAshyn/the-nights)
+> A **career guidance platform** helping students explore career opportunities and connect with mentors.
 
-<br/>
+### 🌱 EcoSpark *(Next.js, TypeScript)*
+👉 [View on GitHub](https://github.com/SelAshyn/ecospark)
+> A **sustainability platform** promoting environmental awareness and smarter agriculture.
 
-<table width="100%">
-<tr><th align="left" width="26%">project</th><th align="left">what it does</th></tr>
-<tr><td>🌙 <b>The Nights</b></td><td>career guidance platform connecting students with mentors</td></tr>
-<tr><td>🌱 <b>EcoSpark</b></td><td>sustainability platform for environmental awareness & agriculture</td></tr>
-<tr><td>🩺 <b>Health Insights Agent</b></td><td>Gemini-powered app that simplifies health reports</td></tr>
-<tr><td>💰 <b>Expense Tracker</b></td><td>full-stack finance manager with analytics & auth</td></tr>
-<tr><td>📚 <b>Novella</b></td><td>reading companion for tracking books & progress</td></tr>
-</table>
+### 🩺 Health Insights Agent *(Python, Gemini API)*
+👉 [View on GitHub](https://github.com/SelAshyn/health-insights-agent)
+> An **AI-powered app** that analyzes and simplifies health reports using the Gemini API.
 
-<br/>
+### 💰 Expense Tracker *(Next.js, FastAPI)*
+👉 [View on GitHub](https://github.com/SelAshyn/expense-tracker)
+> A **full-stack finance management app** with analytics and secure authentication.
 
-<div align="center">
+### 📚 Novella *(React, Supabase)*
+👉 [View on GitHub](https://github.com/SelAshyn/novella)
+> A **modern reading companion** for organizing books and tracking reading progress.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SelAshyn&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=5CCFE6&icon_color=F28779&text_color=ABB2BF" height="165"/>
-<img src="https://streak-stats.demolab.com?user=SelAshyn&theme=transparent&hide_border=true&background=00000000&stroke=ABB2BF&ring=5CCFE6&fire=F28779&currStreakLabel=FFCC66&sideLabels=ABB2BF&currStreakNum=F1F5F9&sideNums=F1F5F9&dates=5C6773" height="165"/>
+---
 
-<br/><br/>
+## 📊 GitHub Stats
 
-<a href="https://www.linkedin.com/in/rhishavlamichhane"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=5CCFE6"/></a>
-<a href="https://github.com/SelAshyn"><img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=F28779"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SelAshyn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Rhishav's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelAshyn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Rhishav's Top Languages">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SelAshyn&theme=blood-dark" alt="GitHub Streak" /></a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SelAshyn/SelAshyn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SelAshyn/SelAshyn/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SelAshyn/SelAshyn/output/github-snake.svg" />
+  </picture>
+</p>
 
-<br/><br/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SelAshyn&theme=react-dark)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:1F2430,100:0A0E14&height=100&section=footer"/>
+---
 
-</div>
+## 🏆 Achievements & Badges
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SelAshyn&theme=onedark" alt="Rhishav's Trophies"></a>
+</p>
+
+---
+
+## 📧 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rhishavlamichhane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/SelAshyn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+⭐️ *Don't forget to star some repos and drop me a message if you'd like to collaborate!* 🚀🔥
